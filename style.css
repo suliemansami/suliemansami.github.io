@@ -32,6 +32,7 @@ header{background:var(--ink);color:var(--on-dark)}
 .kicker{font-size:.8125rem;letter-spacing:.14em;text-transform:uppercase;color:var(--on-dark-3);margin:0 0 28px}
 h1{font-size:clamp(2.5rem,4.6vw,4rem);line-height:1.1;letter-spacing:-.02em;margin:0 0 36px}
 h1 em{font-style:italic}
+h1 .kicker{display:block;font-family:var(--sans);font-weight:400;line-height:1.5}
 .lede{font-size:1.3125rem;line-height:1.55;max-width:34rem;color:var(--on-dark-2);margin:0 0 36px}
 .hero img{display:block;width:100%;max-width:620px;height:auto;justify-self:end;align-self:end}
 
